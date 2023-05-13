@@ -6,8 +6,6 @@ author: "Sam Robbins"
 type: "post"
 ---
 
-For a long time this website has had a couple of links to contact me, but those days are over.
-
 Now I have a brand new Hugo website with a custom written theme complete with
 
 - A homepage with more social links, and description of my skills
