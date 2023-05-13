@@ -6,5 +6,6 @@ author : "Sam Robbins"
 authorImage : "images/about/profile.jpg"
 ---
 
+되냐이제? 되냐고
 
 I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
