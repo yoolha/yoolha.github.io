@@ -258,9 +258,10 @@
       <p>-자료구조 10주차 실습</p>
 
 
-      <pre><code>#include <iostream>
-        #include <queue>
-        #include <string>
+      <pre><code>
+        #include &lt;iostream&gt;
+        #include &lt;queue&gt;
+        #include &lt;string&gt;
         
         using namespace std;
         
@@ -297,7 +298,7 @@
                     return;
                 }
         
-                queue<Node*> nodeQueue;
+                queue&lt;Node*&gt; nodeQueue;
                 nodeQueue.push(root);
                 while (!nodeQueue.empty()) {
                     Node* current = nodeQueue.front();
